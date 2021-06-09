@@ -1,2 +1,2 @@
-This is a new git tutorial
+This is a new distributed git tutorial
 Please learn it well
