@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 This is dev add
 This is master add not dev add
-
+This is for no-ff mode merge
