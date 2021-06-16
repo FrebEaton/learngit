@@ -3,3 +3,4 @@ Please learn it well with GPL
 Git has a mutable index called stage.
 Git tracks changes.
 This is dev add
+This is master add
